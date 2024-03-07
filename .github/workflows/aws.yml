@@ -38,8 +38,3 @@ jobs:
 
     - name: Install Winrar
       run: cmd /c C:\Users\Public\Desktop\winrar.exe winrar.exe /s
-      
-    - name: TimeCount
-      run: |
-        https://raw.githubusercontent.com/waseem6409/window-10/main/resources/loop.ps1 -OutFile loop.ps1 
-        ./loop.ps1
