@@ -41,5 +41,5 @@ jobs:
       
     - name: TimeCount
       run: |
-        https://raw.githubusercontent.com/waseem6409/window-10/main/resources/loop.ps1 -OutFile loop.ps1
+        https://raw.githubusercontent.com/waseem6409/window-10/main/resources/loop.ps1 -OutFile loop.ps1 
         ./loop.ps1
