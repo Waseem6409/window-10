@@ -1,3 +1,4 @@
+name: Azure
 on:
   push:
     branches:
